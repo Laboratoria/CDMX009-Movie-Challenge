@@ -6,7 +6,7 @@
 - [Resumen del proyecto](#resumen-del-proyecto)
 - [Consideraciones generales](#consideraciones-generales)
 - [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-- [Parte obligatoria](#parte-obligatoria)
+- [Avances necesarios](#avances-necesarios)
 - [Consideraciones técnicas](#consideraciones-técnicas)
 
 ---
