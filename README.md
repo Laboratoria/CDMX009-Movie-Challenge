@@ -13,10 +13,10 @@
 
 ## Preámbulo
 
-Con la aparición de plataformas para ver películas en la nube, como Netflix o
-Amazon Prime Video, ver películas desde donde estés, comiendo lo que quieras
+Con la aparición de plataformas para ver películas en la nube, como Netflix,
+Amazon Prime Video o HBO, ver películas desde donde estés, comiendo lo que quieras
 (sin tener que pagar precios ridículos por palomitas), parando si es necesario, teniendo acceso a una cantidad
-abrumadora de películas... ha cambiado la experiencia del usuario
+abrumadora de películas, etc. ha cambiado la experiencia del usuario
 y modificado el mercado de las películas a nivel global.
 
 ![Pelis](https://i.giphy.com/media/3o6Ztl7RvfwCp9mqhW/source.gif)
@@ -33,12 +33,13 @@ comedia ... o... ¡lo que quieran!
 - Este proyecto se debe resolver en equipos.
 - Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database).
 - Tiempo para completar el reto: 3 días.
-- Habrán dos presentaciones, una a la mitad de la _hackathon_ y otra al final.
+- Habrán dos presentaciones, una a la mitad de la _reto_ y otra al final.
 
 ## Objetivos de aprendizaje
 
 - Enfrentarte a un reto de corta duración en el que pongas
   en práctica todo lo aprendido hasta ahora.
+  
 - Que sigas desarrollando tus habilidades de trabajo en equipo. Mientras más
   personas en un equipo de trabajo, mayor complejidad para: tener un
   entendimiento común, seguir el flujo de trabajo, buscar consensos, etc.
@@ -48,7 +49,7 @@ comedia ... o... ¡lo que quieran!
 - Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
   por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
   y las inspiraciones utilizadas para definir el producto.
-- Además, deberás detallar en el archivo _readme_, qué hizo cada una en el
+- Además, deberás detallar en el archivo _readme_, qué hizo cada integrante del
   proyecto.
 - El producto deberá presentarse publicado en github pages.
 
@@ -59,6 +60,4 @@ comedia ... o... ¡lo que quieran!
 
 ## Sobre las presentaciones
 
-- Cada squad tendrá 5 minutos para presentar y 5 minutos para recibir preguntas.
-
-- Las personas que presentan en la primera presentación no deben ser las mismas de la presentación final.
+- Cada squad tendrá 3 minutos para presentar y 2 minutos para recibir preguntas.
