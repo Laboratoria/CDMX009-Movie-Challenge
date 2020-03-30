@@ -57,7 +57,3 @@ comedia ... o... ¡lo que quieran!
 
 - El diseño visual de los componentes es de libre elección.
 - Pueden usar algún framework de css si así lo deciden.
-
-## Sobre las presentaciones
-
-- Cada squad tendrá 3 minutos para presentar y 2 minutos para recibir preguntas.
