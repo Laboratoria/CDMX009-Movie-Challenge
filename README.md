@@ -57,3 +57,8 @@ comedia ... o... ¡lo que quieran!
 
 - El diseño visual de los componentes es de libre elección.
 - Pueden usar algún framework de css si así lo deciden.
+
+## Sobre las presentaciones
+
+- Habrá una presentación voluntaria al final.
+
